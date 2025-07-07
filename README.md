@@ -1,4 +1,3 @@
-# 👋 Olá, sou [Seu Nome Aqui]
 
 🎓 Formado em Defesa Cibernética pela FIAP  
 💻 Estudando Pentest e Desenvolvimento Full Stack Java (v2) - EBAC  
@@ -35,7 +34,7 @@ Atualmente estou me aprofundando em:
 
 ### 📈 GitHub Stats
 
-![Seu nome GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Burkhardt0Patrick](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
 
 ---
