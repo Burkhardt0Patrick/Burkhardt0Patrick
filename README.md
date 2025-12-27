@@ -37,6 +37,7 @@ Atualmente estou me aprofundando em:
 ![Burkhardt0Patrick](https://github-readme-stats.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=radical)
 
 ---
 
