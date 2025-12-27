@@ -33,7 +33,6 @@ Atualmente estou me aprofundando em:
 ---
 
 ### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Burkhardt0Patrick=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
