@@ -27,11 +27,16 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🔍 Port Scanner | Scanner de portas desenvolvido em Python | Python, Socket |
-| 🧪 Web Pentest Lab | Ambiente de testes para aplicações web | Kali Linux, Burp Suite |
+| ☁️ Azure SIEM Setup | Configuração e monitoramento de SIEM no Microsoft Azure | Azure, Sentinel, Log Analytics |
+| 🛡️ Vulnerability Management Lab | Laboratório de gerenciamento e análise de vulnerabilidades | Nessus, Linux, Security Tools |
+| 👥 Active Directory Lab | Configuração de Active Directory e gerenciamento de usuários | Windows Server, Active Directory|
+| 🔗 REST API Security Project | Construção e testes de uma API REST segura | Python, Flask, API Security |
+| 📂 File Integrity Monitor | Monitor de integridade de arquivos para detecção de alterações | Python, Hashing, Linux |
 | 🐍 Recon Automation | Automação de coleta de informações | Python, Linux |
-| 🔐 Password Checker | Verificador de força de senha | Java |
 | 🌐 Subdomain Finder | Enumeração de subdomínios | Python |
+| 🔐 Password Checker | Verificador de força de senha | Java |
+| 📊 Log Analyzer | Análise de logs para detecção de padrões suspeitos | Python |
+| 🔑 Hash Generator | Ferramenta de geração e verificação de hashes | Python, SHA256 |
 
 ---
 
@@ -42,10 +47,10 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
 | ☕ API REST Java | API REST com autenticação JWT | Java, Spring Boot |
-| 📦 CRUD System | Sistema completo CRUD | Java, MySQL |
 | 🌐 Portfolio Web | Portfólio responsivo | HTML, CSS, JavaScript |
-| 📝 Task Manager | Gerenciador de tarefas Full Stack | Java, React |
 | ⚡ Automation Scripts | Scripts utilitários para automação | Python |
+| 🔐 Password Strength API | API simples que avalia força de senhas | Python, Flask |
+| 🔑 Hash Checker Tool | Ferramenta web para geração e validação de hashes | JavaScript, HTML |
 
 ---
 
