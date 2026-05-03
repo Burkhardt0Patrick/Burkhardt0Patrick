@@ -78,7 +78,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&theme=tokyonight"
   />
 </p>
----
+
 
 # 📫 Como me encontrar
 
