@@ -97,6 +97,6 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 <div align="center">
 
-⭐ Sempre construindo projetos para unir desenvolvimento e segurança ofensiva ⭐
+
 
 </div>
