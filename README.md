@@ -1,1 +1,100 @@
-👨‍💻 Seu Nome 🎓 Formado em Defesa Cibernética pela FIAP 💻 Estudando Pentest e Desenvolvimento Full Stack Java (EBAC) 🔒 Foco em Segurança Ofensiva, Desenvolvimento Web e Boas Práticas em Git 📍 Zurique, Suíça 🇨🇭 --- # 🔥 Sobre mim Sou apaixonado por tecnologia, segurança digital e desenvolvimento de software. Atualmente estou focado em aprofundar meus conhecimentos em: - 🔒 Segurança Ofensiva e Pentest - ☕ Desenvolvimento Backend com Java - 🐍 Automação e scripts com Python - 🌐 Desenvolvimento Full Stack com foco em aplicações modernas e seguras - 🧪 Projetos práticos integrando desenvolvimento + cibersegurança - 🛠️ Versionamento e boas práticas com Git/GitHub --- # 🔒 Cybersecurity Projects ## 🛡️ Offensive Security & Pentest | Projeto | Descrição | Tecnologias | |----------|------------|--------------| | 🔍 Port Scanner | Scanner de portas desenvolvido em Python | Python, Socket | | 🧪 Web Pentest Lab | Ambiente de testes para aplicações web | Kali Linux, Burp Suite | | 🐍 Recon Automation | Automação de coleta de informações | Python, Linux | | 🔐 Password Checker | Verificador de força de senha | Java | | 🌐 Subdomain Finder | Enumeração de subdomínios | Python | --- # 💻 Development Projects ## ☕ Backend & Full Stack | Projeto | Descrição | Tecnologias | |----------|------------|--------------| | ☕ API REST Java | API REST com autenticação JWT | Java, Spring Boot | | 📦 CRUD System | Sistema completo CRUD | Java, MySQL | | 🌐 Portfolio Web | Portfólio responsivo | HTML, CSS, JavaScript | | 📝 Task Manager | Gerenciador de tarefas Full Stack | Java, React | | ⚡ Automation Scripts | Scripts utilitários para automação | Python | --- # 🚀 Tecnologias e Ferramentas ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=flat&logo=burpsuite&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) --- # 📈 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight) --- # 📫 Como me encontrar - 💼 LinkedIn: https://linkedin.com/in/SEU_USUARIO - 📧 Email: seuemail@email.com --- # 🧠 Atualmente estudando - 🔒 Pentest Web - ☕ Java Moderno - 🐍 Python para Cybersecurity - 🌐 Full Stack Development - 🛠️ Git & GitHub Best Practices --- ⭐ Sempre construindo projetos para unir desenvolvimento e segurança ofensiva.
+# 👨‍💻 Seu Nome
+
+🎓 Formado em Defesa Cibernética pela FIAP  
+💻 Estudando Pentest e Desenvolvimento Full Stack Java (EBAC)  
+🔒 Foco em Segurança Ofensiva, Desenvolvimento Web e Boas Práticas em Git  
+📍 Zurique, Suíça 🇨🇭
+
+---
+
+## 💡 Sobre mim
+
+Sou apaixonado por tecnologia, segurança digital e desenvolvimento de software.  
+Atualmente estou focado em aprofundar meus conhecimentos em:
+
+- 🔒 Segurança Ofensiva e Pentest
+- ☕ Desenvolvimento Backend com Java
+- 🐍 Automação e scripts com Python
+- 🌐 Desenvolvimento Web Full Stack
+- 🧪 Projetos práticos integrando desenvolvimento + cibersegurança
+- 🛠️ Versionamento e boas práticas com Git/GitHub
+
+---
+
+# 🔒 Cybersecurity Projects
+
+## 🛡️ Offensive Security & Pentest
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🔍 Port Scanner | Scanner de portas desenvolvido em Python | Python, Socket |
+| 🧪 Web Pentest Lab | Ambiente de testes para aplicações web | Kali Linux, Burp Suite |
+| 🐍 Recon Automation | Automação de coleta de informações | Python, Linux |
+| 🔐 Password Checker | Verificador de força de senha | Java |
+| 🌐 Subdomain Finder | Enumeração de subdomínios | Python |
+
+---
+
+# 💻 Development Projects
+
+## ☕ Backend & Full Stack
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| ☕ API REST Java | API REST com autenticação JWT | Java, Spring Boot |
+| 📦 CRUD System | Sistema completo CRUD | Java, MySQL |
+| 🌐 Portfolio Web | Portfólio responsivo | HTML, CSS, JavaScript |
+| 📝 Task Manager | Gerenciador de tarefas Full Stack | Java, React |
+| ⚡ Automation Scripts | Scripts utilitários para automação | Python |
+
+---
+
+# 🚀 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Como me encontrar
+
+- 💼 LinkedIn: https://linkedin.com/in/SEU_USUARIO
+- 📧 Email: seuemail@email.com
+
+---
+
+# 🧠 Atualmente estudando
+
+- 🔒 Pentest Web
+- ☕ Java Moderno
+- 🐍 Python para Cybersecurity
+- 🌐 Full Stack Development
+- 🛠️ Git & GitHub Best Practices
+
+---
+
+<div align="center">
+
+⭐ Sempre construindo projetos para unir desenvolvimento e segurança ofensiva ⭐
+
+</div>
