@@ -1,4 +1,4 @@
-# 👨‍💻 Seu Nome
+# 👨‍💻 Patrick Burkhardt
 
 🎓 Formado em Defesa Cibernética pela FIAP  
 💻 Estudando Pentest e Desenvolvimento Full Stack Java (EBAC)  
@@ -66,15 +66,16 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 ---
 # 📈 GitHub Stats
+
 <p align="center">
   <img 
-    height="180em" 
+    height="170em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=tokyonight"
   />
 
   
   <img 
-    height="180em" 
+    height="170em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&theme=tokyonight"
   />
 </p>
