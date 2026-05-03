@@ -65,13 +65,18 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 </p>
 
 ---
-
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&theme=tokyonight"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&langs_count=8&theme=tokyonight"
+  />
 </p>
 
 ---
