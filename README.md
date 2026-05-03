@@ -78,8 +78,8 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 # 📫 Como me encontrar
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU_USUARIO
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: www.linkedin.com/in/patrick-burkhardt-8b7700257
+- 📧 Email: Burkhardt_patrick@proton.me
 
 ---
 
