@@ -27,16 +27,16 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 | Project | Description | Technologies |
 |----------|------------|--------------|
-| [☁️ Azure SIEM Setup](https://github.com/SEUUSER/Azure-SIEM-Setup) | SIEM setup and threat monitoring using Microsoft Azure Sentinel | Azure, Sentinel, Log Analytics |
-| [👥 Active Directory Lab](https://github.com/SEUUSER/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
-| [🛡️ Vulnerability Management Lab](https://github.com/SEUUSER/Vulnerability-Management-Lab) | Vulnerability scanning and analysis lab | Nessus, Linux, Security Tools |
-| [🔗 REST API Security Project](https://github.com/SEUUSER/REST-API-Security) | Secure REST API with security testing | Python, Flask, API Security |
-| [📂 File Integrity Monitor](https://github.com/SEUUSER/File-Integrity-Monitor) | File integrity monitoring system | Python, Hashing, Linux |
-| [📊 Log Analyzer](https://github.com/SEUUSER/Log-Analyzer) | Security log analysis for anomaly detection | Python |
-| [🐍 Recon Automation](https://github.com/SEUUSER/Recon-Automation) | Information gathering automation tools | Python, Linux |
-| [🌐 Subdomain Finder](https://github.com/SEUUSER/Subdomain-Finder) | Subdomain enumeration tool | Python |
-| [🔑 Hash Generator](https://github.com/SEUUSER/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
-| [🔐 Password Checker](https://github.com/SEUUSER/Password-Checker) | Password strength checker tool | Java |
+| [☁️ Azure SIEM Setup](https://github.com/Burkhardt0Patrick/Azure-SIEM-Setup) | SIEM setup and threat monitoring using Microsoft Azure Sentinel | Azure, Sentinel, Log Analytics |
+| [👥 Active Directory Lab](https://github.com/Burkhardt0Patrick/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
+| [🛡️ Vulnerability Management Lab](https://github.com/Burkhardt0Patrick/Vulnerability-Management-Lab/settings) | Vulnerability scanning and analysis lab | Nessus, Linux, Security Tools |
+| [🔗 REST API Security Project](https://github.com/Burkhardt0Patrick/REST-API-Security-Project) | Secure REST API with security testing | Python, Flask, API Security |
+| [📂 File Integrity Monitor](https://github.com/Burkhardt0Patrick/File-Integrity-Monitor) | File integrity monitoring system | Python, Hashing, Linux |
+| [📊 Log Analyzer](https://github.com/Burkhardt0Patrick/Log-Analyzer) | Security log analysis for anomaly detection | Python |
+| [🐍 Recon Automation](https://github.com/Burkhardt0Patrick/Recon-Automation) | Information gathering automation tools | Python, Linux |
+| [🌐 Subdomain Finder](https://github.com/Burkhardt0Patrick/Subdomain-Finder) | Subdomain enumeration tool | Python |
+| [🔑 Hash Generator](https://github.com/Burkhardt0Patrick/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
+| [🔐 Password Checker](https://github.com/Burkhardt0Patrick/Password-Checker) | Password strength checker tool | Java |
 
 ---
 
