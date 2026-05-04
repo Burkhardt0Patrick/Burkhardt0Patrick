@@ -28,15 +28,15 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
 | ☁️ Azure SIEM Setup | Configuração e monitoramento de SIEM no Microsoft Azure | Azure, Sentinel, Log Analytics |
-| 🛡️ Vulnerability Management Lab | Laboratório de gerenciamento e análise de vulnerabilidades | Nessus, Linux, Security Tools |
 | 👥 Active Directory Lab | Configuração de Active Directory e gerenciamento de usuários | Windows Server, Active Directory|
+| 🛡️ Vulnerability Management Lab | Laboratório de gerenciamento e análise de vulnerabilidades | Nessus, Linux, Security Tools |
 | 🔗 REST API Security Project | Construção e testes de uma API REST segura | Python, Flask, API Security |
 | 📂 File Integrity Monitor | Monitor de integridade de arquivos para detecção de alterações | Python, Hashing, Linux |
+| 📊 Log Analyzer | Análise de logs para detecção de padrões suspeitos | Python |
 | 🐍 Recon Automation | Automação de coleta de informações | Python, Linux |
 | 🌐 Subdomain Finder | Enumeração de subdomínios | Python |
-| 🔐 Password Checker | Verificador de força de senha | Java |
-| 📊 Log Analyzer | Análise de logs para detecção de padrões suspeitos | Python |
 | 🔑 Hash Generator | Ferramenta de geração e verificação de hashes | Python, SHA256 |
+| 🔐 Password Checker | Verificador de força de senha | Java |
 
 ---
 
