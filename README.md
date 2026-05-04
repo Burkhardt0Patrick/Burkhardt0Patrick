@@ -25,18 +25,18 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 ## 🛡️ Offensive Security & Pentest
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |----------|------------|--------------|
-| ☁️ Azure SIEM Setup | Configuração e monitoramento de SIEM no Microsoft Azure | Azure, Sentinel, Log Analytics |
-| 👥 Active Directory Lab | Configuração de Active Directory e gerenciamento de usuários | Windows Server, Active Directory|
-| 🛡️ Vulnerability Management Lab | Laboratório de gerenciamento e análise de vulnerabilidades | Nessus, Linux, Security Tools |
-| 🔗 REST API Security Project | Construção e testes de uma API REST segura | Python, Flask, API Security |
-| 📂 File Integrity Monitor | Monitor de integridade de arquivos para detecção de alterações | Python, Hashing, Linux |
-| 📊 Log Analyzer | Análise de logs para detecção de padrões suspeitos | Python |
-| 🐍 Recon Automation | Automação de coleta de informações | Python, Linux |
-| 🌐 Subdomain Finder | Enumeração de subdomínios | Python |
-| 🔑 Hash Generator | Ferramenta de geração e verificação de hashes | Python, SHA256 |
-| 🔐 Password Checker | Verificador de força de senha | Java |
+| [☁️ Azure SIEM Setup](https://github.com/SEUUSER/Azure-SIEM-Setup) | SIEM setup and threat monitoring using Microsoft Azure Sentinel | Azure, Sentinel, Log Analytics |
+| [👥 Active Directory Lab](https://github.com/SEUUSER/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
+| [🛡️ Vulnerability Management Lab](https://github.com/SEUUSER/Vulnerability-Management-Lab) | Vulnerability scanning and analysis lab | Nessus, Linux, Security Tools |
+| [🔗 REST API Security Project](https://github.com/SEUUSER/REST-API-Security) | Secure REST API with security testing | Python, Flask, API Security |
+| [📂 File Integrity Monitor](https://github.com/SEUUSER/File-Integrity-Monitor) | File integrity monitoring system | Python, Hashing, Linux |
+| [📊 Log Analyzer](https://github.com/SEUUSER/Log-Analyzer) | Security log analysis for anomaly detection | Python |
+| [🐍 Recon Automation](https://github.com/SEUUSER/Recon-Automation) | Information gathering automation tools | Python, Linux |
+| [🌐 Subdomain Finder](https://github.com/SEUUSER/Subdomain-Finder) | Subdomain enumeration tool | Python |
+| [🔑 Hash Generator](https://github.com/SEUUSER/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
+| [🔐 Password Checker](https://github.com/SEUUSER/Password-Checker) | Password strength checker tool | Java |
 
 ---
 
@@ -44,13 +44,11 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 ## ☕ Backend & Full Stack
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |----------|------------|--------------|
-| ☕ API REST Java | API REST com autenticação JWT | Java, Spring Boot |
-| 🌐 Portfolio Web | Portfólio responsivo | HTML, CSS, JavaScript |
-| ⚡ Automation Scripts | Scripts utilitários para automação | Python |
-| 🔐 Password Strength API | API simples que avalia força de senhas | Python, Flask |
-| 🔑 Hash Checker Tool | Ferramenta web para geração e validação de hashes | JavaScript, HTML |
+| [☕ API REST Java](https://github.com/SEUUSER/API-REST-Java) | REST API with JWT authentication | Java, Spring Boot |
+| [🌐 Portfolio Web](https://github.com/SEUUSER/Portfolio-Web) | Responsive personal portfolio website | HTML, CSS, JavaScript |
+| [⚡ Automation Scripts](https://github.com/SEUUSER/Automation-Scripts) | Python automation scripts | Python |
 
 ---
 
