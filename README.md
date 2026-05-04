@@ -72,11 +72,11 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 <p align="center">
   <img 
-    height="150em" 
+    height="120em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Burkhardt0Patrick&show_icons=true&theme=tokyonight"
   />
   <img 
-    height="150em" 
+    height="120em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Burkhardt0Patrick&layout=compact&theme=tokyonight"
   />
 </p>
