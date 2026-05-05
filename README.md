@@ -36,7 +36,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 | [🐍 Recon Automation](https://github.com/Burkhardt0Patrick/Recon-Automation) | Information gathering automation tools | Python, Linux |
 | [🌐 Subdomain Finder](https://github.com/Burkhardt0Patrick/Subdomain-Finder) | Subdomain enumeration tool | Python |
 | [🔑 Hash Generator](https://github.com/Burkhardt0Patrick/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
-| [🔐 Password Checker](https://github.com/Burkhardt0Patrick/Password-Checker) | Password strength checker tool | Java |
+| [🔐 Password Checker](https://github.com/Burkhardt0Patrick/password-strength-checker) | Password strength checker tool | Java |
 
 ---
 
