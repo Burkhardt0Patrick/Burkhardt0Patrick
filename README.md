@@ -27,12 +27,6 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 | Project | Description | Technologies |
 |----------|------------|--------------|
-| [☁️ Azure SIEM Setup](https://github.com/Burkhardt0Patrick/Azure-SIEM-Setup) | SIEM setup and threat monitoring using Microsoft Azure Sentinel | Azure, Sentinel, Log Analytics |
-| [👥 Active Directory Lab](https://github.com/Burkhardt0Patrick/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
-| [🛡️ Vulnerability Management Lab](https://github.com/Burkhardt0Patrick/Vulnerability-Management-Lab/settings) | Vulnerability scanning and analysis lab | Nessus, Linux, Security Tools |
-| [🔗 REST API Security Project](https://github.com/Burkhardt0Patrick/REST-API-Security-Project) | Secure REST API with security testing | Python, Flask, API Security |
-| [📂 File Integrity Monitor](https://github.com/Burkhardt0Patrick/File-Integrity-Monitor) | File integrity monitoring system | Python, Hashing, Linux |
-| [📊 Log Analyzer](https://github.com/Burkhardt0Patrick/Log-Analyzer) | Security log analysis for anomaly detection | Python |
 | [🐍 Recon Automation](https://github.com/Burkhardt0Patrick/Recon-Automation) | Information gathering automation tools | Python, Linux |
 | [🌐 Subdomain Finder](https://github.com/Burkhardt0Patrick/Subdomain-Finder) | Subdomain enumeration tool | Python |
 | [🔑 Hash Generator](https://github.com/Burkhardt0Patrick/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
@@ -46,9 +40,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 | Project | Description | Technologies |
 |----------|------------|--------------|
-| [☕ API REST Java](https://github.com/SEUUSER/API-REST-Java) | REST API with JWT authentication | Java, Spring Boot |
-| [🌐 Portfolio Web](https://github.com/SEUUSER/Portfolio-Web) | Responsive personal portfolio website | HTML, CSS, JavaScript |
-| [⚡ Automation Scripts](https://github.com/SEUUSER/Automation-Scripts) | Python automation scripts | Python |
+
 
 ---
 
