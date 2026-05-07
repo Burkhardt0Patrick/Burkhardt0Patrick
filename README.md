@@ -1,23 +1,27 @@
 # 👨‍💻 Patrick Burkhardt
 
-🎓 Formado em Defesa Cibernética pela FIAP  
-💻 Estudando Pentest e Desenvolvimento Full Stack Java (EBAC)  
-🔒 Foco em Segurança Ofensiva, Desenvolvimento Web e Boas Práticas em Git  
-📍 Zurique, Suíça 🇨🇭
+🎓 Graduated in Cybersecurity from FIAP
+
+💻 Studying Penetration Testing and Full Stack Java Development (EBAC)
+
+🔒 Focus on Offensive Security, Web Development, and Git Best Practices
+
+📍 Zurich, Switzerland 🇨🇭
 
 ---
 
-## 💡 Sobre mim
+## 💡 About me
 
-Sou apaixonado por tecnologia, segurança digital e desenvolvimento de software.  
-Atualmente estou focado em aprofundar meus conhecimentos em:
+I am passionate about technology, digital security, and software development.
 
-- 🔒 Segurança Ofensiva e Pentest
-- ☕ Desenvolvimento Backend com Java
-- 🐍 Automação e scripts com Python
-- 🌐 Desenvolvimento Web Full Stack
-- 🧪 Projetos práticos integrando desenvolvimento + cibersegurança
-- 🛠️ Versionamento e boas práticas com Git/GitHub
+Currently, I am focused on deepening my knowledge in:
+
+- 🔒 Offensive Security and Penetration Testing
+- ☕ Backend Development with Java
+- 🐍 Automation and scripting with Python
+- 🌐 Full Stack Web Development
+- 🧪 Practical projects integrating development + cybersecurity
+- 🛠️ Version control and best practices with Git/GitHub
 
 ---
 
