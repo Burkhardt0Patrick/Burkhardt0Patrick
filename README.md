@@ -27,6 +27,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em:
 
 | Project | Description | Technologies |
 |----------|------------|--------------|
+ [👥 Active Directory Lab](https://github.com/Burkhardt0Patrick/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
 | [🐍 Recon Automation](https://github.com/Burkhardt0Patrick/Recon-Automation) | Information gathering automation tools | Python, Linux |
 | [🌐 Subdomain Finder](https://github.com/Burkhardt0Patrick/Subdomain-Finder) | Subdomain enumeration tool | Python |
 | [🔑 Hash Generator](https://github.com/Burkhardt0Patrick/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
