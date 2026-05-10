@@ -30,12 +30,16 @@ Currently, I am focused on deepening my knowledge in:
 ## 🛡️ Offensive Security & Pentest
 
 | Project | Description | Technologies |
-|----------|------------|--------------|
- [👥 Active Directory Lab](https://github.com/Burkhardt0Patrick/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
+|----------|------------|--------------| 
+| .[🛡️ Azure Sentinel SOC Lab] | Built a cloud-based SIEM environment for security monitoring, incident detection, and threat analysis using Microsoft Sentinel | Microsoft Azure, Microsoft Sentinel, KQL, Log Analytics |
+| [👥 Active Directory Lab](https://github.com/Burkhardt0Patrick/Active-Directory-Lab) | Active Directory setup and user management lab | Windows Server, Active Directory |
 | [🐍 Recon Automation](https://github.com/Burkhardt0Patrick/Recon-Automation) | Information gathering automation tools | Python, Linux |
 | [🌐 Subdomain Finder](https://github.com/Burkhardt0Patrick/Subdomain-Finder) | Subdomain enumeration tool | Python |
 | [🔑 Hash Generator](https://github.com/Burkhardt0Patrick/Hash-Generator) | Hash generation and verification tool | Python, SHA256 |
-| [🔐 Password Checker](https://github.com/Burkhardt0Patrick/password-strength-checker) | Password strength checker tool | Java |
+| [🔐 Password Checker](https://github.com/Burkhardt0Patrick/password-strength-checker) | Password strength checker tool | Java |                                  |
+| -------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 🛡️ Azure Sentinel SOC Lab | Built a cloud-based SIEM for security monitoring, incident detection and log analysis | Azure, Microsoft Sentinel, KQL, Log Analytics |
+
 
 ---
 
